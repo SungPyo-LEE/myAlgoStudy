@@ -6,4 +6,5 @@
 <br>문제를 분할하여 재귀함수로 격파하자.
 
 ## 간단한 정렬
-SelectionSort와 InsertionSort 둘 다 i*j만큼의 시간복잡도를 가진다.
+SelectionSort와 InsertionSort 둘 다 i*j만큼의 시간복잡도를 가진다.<br>
+HeapSort O(nlogn)
